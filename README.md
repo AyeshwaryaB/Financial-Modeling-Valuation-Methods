@@ -1,1 +1,1 @@
-The project features practical application of Variance Analysis, Capital Budgeting Model, Comparable Companies Analysis, Three-Statement Model and Discounted Cash Flow Analysis, utilizing simulated data.
+The project features practical application of various financial models and valuation techniques.
